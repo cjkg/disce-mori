@@ -36,5 +36,6 @@
 
 # Other config files
 /config/initializers/assets.rb
+/config/application.yml
 /config/cable.yml
 /config/credentials.yml.enc
