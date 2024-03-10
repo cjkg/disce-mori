@@ -33,3 +33,8 @@
 
 # Ignore master key for decrypting credentials and more.
 /config/master.key
+
+# Other config files
+/config/initializers/assets.rb
+/config/cable.yml
+/config/credentials.yml.enc
